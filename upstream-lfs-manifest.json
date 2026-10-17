@@ -1,0 +1,126 @@
+{
+  "upstream": "https://github.com/google-ai-edge/LiteRT",
+  "commit": "2add6f4eda319e204c7c021ec871503a0fa766fc",
+  "files": [
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/android_arm32/libLiteRt.so",
+      "store_path": "objects/upstream-litert/litert/prebuilt/android_arm32/libLiteRt.so",
+      "sha256": "ce91744d615a477309ca84289834040570567b76cee321c829dfbf19f13d890b",
+      "bytes": 3526636
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/android_arm32/libLiteRtClGlAccelerator.so",
+      "store_path": "objects/upstream-litert/litert/prebuilt/android_arm32/libLiteRtClGlAccelerator.so",
+      "sha256": "8cd4169a987b7b1d74db4e682875b043d5f894852d6f9b5cd09457d50e66f8ba",
+      "bytes": 2235212
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/android_arm64/libLiteRt.so",
+      "store_path": "objects/upstream-litert/litert/prebuilt/android_arm64/libLiteRt.so",
+      "sha256": "e27ff49de6e606d3b7d3c3b16398672097021e971909c13299bf8c38ca309088",
+      "bytes": 5360840
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/android_arm64/libLiteRtClGlAccelerator.so",
+      "store_path": "objects/upstream-litert/litert/prebuilt/android_arm64/libLiteRtClGlAccelerator.so",
+      "sha256": "7f5809e60067337de46c39ef484d4ee82047e2b0ec8bfd5ea43e9087c9f1e63c",
+      "bytes": 3156600
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/android_arm64/libLiteRtWebGpuAccelerator.so",
+      "store_path": "objects/upstream-litert/litert/prebuilt/android_arm64/libLiteRtWebGpuAccelerator.so",
+      "sha256": "9eb62e78a76b08135e03a0cef8d6e11fe0442c8add85c4dc4e8e748fd4c9b653",
+      "bytes": 8268712
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/android_x86_64/libLiteRt.so",
+      "store_path": "objects/upstream-litert/litert/prebuilt/android_x86_64/libLiteRt.so",
+      "sha256": "16a6ecdc1324010e8e758aa6687aa837decbb4a6ff5fa4c11b487daca5668667",
+      "bytes": 7490992
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/android_x86_64/libLiteRtClGlAccelerator.so",
+      "store_path": "objects/upstream-litert/litert/prebuilt/android_x86_64/libLiteRtClGlAccelerator.so",
+      "sha256": "cd6d20073268df7a574680b80479c4e0b671518b0a3b44739f84a0fea07bb58c",
+      "bytes": 3795744
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/android_x86_64/libLiteRtWebGpuAccelerator.so",
+      "store_path": "objects/upstream-litert/litert/prebuilt/android_x86_64/libLiteRtWebGpuAccelerator.so",
+      "sha256": "4e608ebdf820c02194ee78eb468ef17a6afe2b9d07d9b6f0312d896fc2878d51",
+      "bytes": 9464928
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/ios_arm64/libLiteRt.dylib",
+      "store_path": "objects/upstream-litert/litert/prebuilt/ios_arm64/libLiteRt.dylib",
+      "sha256": "84c834eb39f90d2858c7b0c8417d0c60dd7215485b5851182eada081cf36473c",
+      "bytes": 7914128
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/ios_arm64/libLiteRtMetalAccelerator.dylib",
+      "store_path": "objects/upstream-litert/litert/prebuilt/ios_arm64/libLiteRtMetalAccelerator.dylib",
+      "sha256": "d869c4677ce15001281989845e11164e223622ce63c05dfd9a9f159e5201b490",
+      "bytes": 7678656
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/ios_sim_arm64/libLiteRt.dylib",
+      "store_path": "objects/upstream-litert/litert/prebuilt/ios_sim_arm64/libLiteRt.dylib",
+      "sha256": "a863d7c002dedb4fef21f5dbf7a7a62c063960a74585d700862c651bc68badc6",
+      "bytes": 7757136
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/ios_sim_arm64/libLiteRtMetalAccelerator.dylib",
+      "store_path": "objects/upstream-litert/litert/prebuilt/ios_sim_arm64/libLiteRtMetalAccelerator.dylib",
+      "sha256": "2c18c6a375918ea6ab8b396593bc0e2103875b26b8a8e821ed8f147bd9ecda72",
+      "bytes": 7918224
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/linux_arm64/libLiteRt.so",
+      "store_path": "objects/upstream-litert/litert/prebuilt/linux_arm64/libLiteRt.so",
+      "sha256": "7e60788000c7fe4f6ec240ea61e0fba91b182cc6785a3ed305300f6216133660",
+      "bytes": 8776760
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/linux_arm64/libLiteRtWebGpuAccelerator.so",
+      "store_path": "objects/upstream-litert/litert/prebuilt/linux_arm64/libLiteRtWebGpuAccelerator.so",
+      "sha256": "319d9639ee5ae5ba56ca341a996448c57c01c3b603663ca5b0e7faaf386a1bc8",
+      "bytes": 16852960
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/linux_x86_64/libLiteRt.so",
+      "store_path": "objects/upstream-litert/litert/prebuilt/linux_x86_64/libLiteRt.so",
+      "sha256": "5f91e38c8f4ba0629a5239cdd3c7ec3fc8606fc89f7c6727e937db2c21e573ab",
+      "bytes": 10843512
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/linux_x86_64/libLiteRtWebGpuAccelerator.so",
+      "store_path": "objects/upstream-litert/litert/prebuilt/linux_x86_64/libLiteRtWebGpuAccelerator.so",
+      "sha256": "2458e0026cabdc7a157b8f8be29e162fe16421db5698af98f7fbf00ec1fd5395",
+      "bytes": 18563352
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/macos_arm64/libLiteRt.dylib",
+      "store_path": "objects/upstream-litert/litert/prebuilt/macos_arm64/libLiteRt.dylib",
+      "sha256": "6183e6a08632ada5ca248a1b2c4853735437aaa5180932ed25ce5e889ac35034",
+      "bytes": 11214272
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/macos_arm64/libLiteRtMetalAccelerator.dylib",
+      "store_path": "objects/upstream-litert/litert/prebuilt/macos_arm64/libLiteRtMetalAccelerator.dylib",
+      "sha256": "a87dbaec953e8d069f6f97f4b9795d987937dd34edc81aa3f9e1f1aa92fc4848",
+      "bytes": 11337104
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/windows_x86_64/libLiteRt.dll",
+      "store_path": "objects/upstream-litert/litert/prebuilt/windows_x86_64/libLiteRt.dll",
+      "sha256": "c3faaf4e3c3e4c38a3f3c3728f71485370ce267a4371c6da8dd0f0ee77ed1add",
+      "bytes": 11908608
+    },
+    {
+      "source_path": "third_party/litert/src/litert/prebuilt/windows_x86_64/libLiteRtWebGpuAccelerator.dll",
+      "store_path": "objects/upstream-litert/litert/prebuilt/windows_x86_64/libLiteRtWebGpuAccelerator.dll",
+      "sha256": "a7a84f1f15a03ac8275d24d11afdeab996267a82a55dd8c05cc5123c391978c7",
+      "bytes": 23971328
+    }
+  ]
+}
